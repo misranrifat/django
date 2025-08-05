@@ -47,20 +47,14 @@ django-restful/
 
 ### Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/django-restful.git
-   cd django-restful
-   ```
-
-2. Create a virtual environment and install dependencies:
+1. Create a virtual environment and install dependencies:
    ```
    python3 -m venv venv
    source venv/bin/activate
    pip install django djangorestframework
    ```
 
-3. Run the application:
+2. Run the application:
    ```
    ./run.sh
    ```
